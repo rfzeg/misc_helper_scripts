@@ -1,0 +1,14 @@
+input_file;start_time;end_time;output_file
+example_clip.mp4;0:00:16.0;0:00:34.1;out1.mp4
+example_clip.mp4;0:00:34.2;0:01:01.8;out2.mp4
+example_clip.mp4;0:06:05.5;0:09:25.4;out3.mp4
+
+
+
+
+
+
+
+
+
+
